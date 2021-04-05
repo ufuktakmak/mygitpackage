@@ -13,6 +13,7 @@ public class MyGitClass {
 		System.out.println("degisiklikleri");
 		System.out.println("YENI BIR degisik");
 		System.out.println("uzak sunucudaki kodum");
+		System.out.println("Yasinin kodu ");
 	
 	}
 
