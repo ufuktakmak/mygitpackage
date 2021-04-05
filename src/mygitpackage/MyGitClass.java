@@ -19,7 +19,7 @@ public class MyGitClass {
  
 		System.out.println("17. satirdaki kod");
 	
- 
+		System.out.println("22. bilgisayarim satirdaki kod");
 	}
 
 }
